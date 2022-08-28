@@ -10,7 +10,7 @@ input[type="text"]:focus {
     display: flex;
     align-items: baseline;
     flex-direction: row;
-    margin-bottom: 40px;
+    margin-bottom: 5px;
 }
 
 .country-info__weight {
